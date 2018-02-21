@@ -1,6 +1,6 @@
-# platzi-music
+# Spotify Previewer
 
-> Vue js Pro
+> A personal project to test and improve my skills using VueJS
 
 ## Build Setup
 
