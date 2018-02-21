@@ -1,0 +1,11 @@
+{
+    "extends": "standard",
+    "rules": {
+        "no-new": "off",
+        "indent": "off",
+        "eol-last": "off",
+        "comma-dangle": "off",
+        "space-before-function-paren": "off"
+    },
+    "plugins": ["html"]
+}

@@ -1,0 +1,11 @@
+@import"~bulma/bulma.sass";
+// First part name of the transition and de second VUE hook of animation
+.move-enter-active, .move-leave-active {
+  transform: translateX(0);
+  transition: all .3s linear;
+}
+
+// MMove out of the screen
+.move-enter, .move-leave {
+  transform: translateX(100%);
+}
